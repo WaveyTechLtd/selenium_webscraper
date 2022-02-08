@@ -7,4 +7,4 @@ Using a combination of Selenium and pandas, to scrap the info and collate into a
 Changes required to use this file
 - Input your own working directory filepath before use.
 - Input your own filepath to webdriver for Selenium, in this case chromedriver.
-- Example output file is also included in "example_companieslist.tsv"
+- Example output file is also included in "example_companies_list.tsv"
